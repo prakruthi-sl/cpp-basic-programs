@@ -1,7 +1,7 @@
 # cpp-basic-programs
 Organized C++ programming examples for beginners and Computer Science students. This repository covers fundamental concepts with structured folders and well-commented source code for learning, practice, and academic use.
 
-##📚 Topics Covered
+## 📚 Topics Covered
 1. Input and Output
 2. Data Types and Operators
 3. Conditional Statements ("if", "else", "switch")
@@ -10,7 +10,7 @@ Organized C++ programming examples for beginners and Computer Science students. 
 6. Basic Mathematical Programs
 7. Problem Solving using C++
 
-##📂 Folder Structure
+## 📂 Folder Structure
 cpp-basic-programs/
 │
 ├── basic/
@@ -43,7 +43,7 @@ cpp-basic-programs/
 │
 └── README.md
 
-##🛠️ How to Run
+## 🛠️ How to Run
 1. Clone the repository:
 git clone https://github.com/prakruthi-sl/cpp-basic-programs.git
 2. Navigate to the project folder:
@@ -53,6 +53,6 @@ g++ program_name.cpp -o program
 4. Run the program:
 ./program
 
-##👨‍💻 Author
+## 👨‍💻 Author
 Prakruthi S L
 Computer Science Engineering Student
